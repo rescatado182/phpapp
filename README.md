@@ -1,2 +1,0 @@
-# phpapp
-Modern PHP Application
